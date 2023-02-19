@@ -165,8 +165,8 @@ body {
 }
 
 .main-img {
-  overflow: hidden;
-  width: 150%;
+  overflow: auto;
+  width: 100%;
   object-fit: cover;
   object-position: center;
 }
@@ -193,7 +193,7 @@ body {
 }
 
 article {
-  margin: 0% 0% 4% 0%;
+  margin: 0% 0% 10% 0%;
 }
 
 .article-news-container {
